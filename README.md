@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RamtinTorik
-- 👀 I’m interested in coding
+- 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning ML
 - 💞️ I am looking for an internship
 - 📫 How to reach me ...
